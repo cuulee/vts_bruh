@@ -1,0 +1,17 @@
+setup.cfg
+setup.py
+vts/__init__.py
+vts/compat.py
+vts/decoder.py
+vts/geometry.py
+vts/hatchet.py
+vts/localization.py
+vts.egg-info/PKG-INFO
+vts.egg-info/SOURCES.txt
+vts.egg-info/dependency_links.txt
+vts.egg-info/not-zip-safe
+vts.egg-info/requires.txt
+vts.egg-info/top_level.txt
+vts/Mapbox/__init__.py
+vts/Mapbox/vector_tile_pb2.py
+vts/Mapbox/vector_tile_pb2_p3.py
